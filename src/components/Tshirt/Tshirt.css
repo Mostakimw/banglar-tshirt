@@ -1,0 +1,20 @@
+.tshirt {
+  border: 1px solid lightblue;
+  border-radius: 15px;
+  padding: 10px;
+}
+.tshirt img {
+  height: 100px;
+  width: 100px;
+}
+.buy-now-btn {
+  background: lightblue;
+  color: #646cff;
+  transition: 0.5s ease;
+  font-weight: 600;
+}
+.buy-now-btn:hover {
+  /* background-color: lightskyblue; */
+  background: rgb(150, 217, 240);
+  color: black;
+}
